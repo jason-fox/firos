@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/github/license/iml130/firos.svg)](https://opensource.org/licenses/MIT)<!--[![Docker badge](https://img.shields.io/docker/pulls/fiware/sigfox-iotagent.svg)](https://hub.docker.com/r/fiware/firos/)-->
 [![](https://img.shields.io/badge/tag-firos-orange.svg?logo=stackoverflow)](https://stackoverflow.com/questions/tagged/fiware+ros)
 <br/> [![Documentation badge](https://img.shields.io/readthedocs/firos.svg)](https://firos.readthedocs.io)
-[![Build Status](https://travis-ci.com/iml130/firos.svg?branch=master)](https://travis-ci.com/iml130/firos)<!--
+[![CI](https://github.com/iml130/firos/workflows/CI/badge.svg)](https://github.com/iml130/firos/actions?query=workflow%3ACI)<!--
 [![Coverage Status](https://coveralls.io/repos/github/iml130/firos/badge.svg?branch=master)](https://coveralls.io/github/iml130/firos?branch=master)-->
 ![Status](https://nexus.lab.fiware.org/repository/raw/public/badges/statuses/incubating.svg)
 
